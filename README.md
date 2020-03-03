@@ -1,4 +1,4 @@
-# class_project
+# Morganton Day School Website
 Hi,
 This is not a real coding page, its just a place to put notes that everyone can see. You can add your own categories
 and notes if you want.
